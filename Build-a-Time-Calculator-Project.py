@@ -77,3 +77,11 @@ print(add_time('10:10 PM', '3:30'))
 print(add_time('10:10 PM', '3:30'))           # without day
 print(add_time('3:30 PM', '2:12', 'Monday'))  # with day
 print(add_time('11:43 PM', '24:20', 'tuesday')) # with day and more days later
+
+"""
+Should print:
+1:40 AM (next day)
+1:40 AM (next day)
+5:42 PM, Monday
+12:03 AM, Thursday (2 days later)
+"""
