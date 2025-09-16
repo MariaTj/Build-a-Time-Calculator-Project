@@ -17,7 +17,7 @@ If the function is given the optional starting day of the week parameter, then t
 
 Below are some examples of different cases the function should handle. Pay close attention to the spacing and punctuation of the results.
 
-## Eksempel
+## Example
 
 ```python
 from project_module import add_time
